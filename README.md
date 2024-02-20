@@ -32,5 +32,5 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 
 ### Certificações
 
-[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
+
 
